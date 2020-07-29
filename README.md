@@ -1,4 +1,4 @@
-## A quickstart guide to interact with your Canvas courses via the unofficial Python API
+## A quickstart guide on interacting with your Canvas courses via the unofficial Python API
 
 Canvas has a well developed API, and there is an unofficial [Python wrapper for this API](https://github.com/ucfopen/canvasapi), developed by the University of Central Florida. The main Canvas API is available at https://canvas.instructure.com/doc/api/index.html.
 
